@@ -1,3 +1,3 @@
 # Icesmasher
 
-It's literally just a website
+It's a website that has all my stuff
